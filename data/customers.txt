@@ -1,0 +1,5 @@
+CUST-1001|Rajesh Sharma|Flat 402, Green Valley Apts, Delhi|9876543210|rajesh@example.com|MTR-101|1200.0|1380.0
+CUST-1002|Priya Patel|12 Lotus Colony, Ahmedabad|9812345678|priya@example.com|MTR-102|850.0|1200.0
+CUST-1003|Amit Verma|78 Civil Lines, Jaipur|9923456789|amit@example.com|MTR-103|2100.0|2350.0
+CUST-1004|Sneha Roy|3B South City, Kolkata|9734567890|sneha@example.com|MTR-104|1540.0|1540.0
+CUST-1005|SANTHOSH|SANTHOSH S|0001|7094616194|santhoshaiml700@gmail.com|568.0|568.0
